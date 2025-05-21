@@ -1,5 +1,7 @@
 # Kitchen Chairs: Modern Dining Room Chairs
 
+## [Kitchen Chairs: Dining Room Chairs](https://github.com/Kitchen-Chairs-Dining-Room-Chairs)
+
 ## About Our Collection
 
 Hey there! 👋 Welcome to our curated collection of modern dining room and kitchen chairs. We've poured our hearts into selecting pieces that blend timeless comfort with contemporary design sensibilities.
